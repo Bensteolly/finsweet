@@ -32,8 +32,12 @@ nav ul{
 nav ul li{
     list-style: none;
     font-size: 12px;
+   
+}
+
+nav ul li a{
     text-decoration: none;
-    color:black;
+    color: black;
 }
 
 nav ul li a:hover{
